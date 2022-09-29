@@ -1,8 +1,7 @@
-# nat
-## nat
-### nat
-#### fg
-
+# base de datos 
+## tortilla
+### 
+#### dns 
 > fin9oo
 
 * pan
@@ -40,7 +39,5 @@ print(f"El total de digitos impares contado es: {impares}")
 ```
 
 
-```python 
-if naomi == JODIDA  :
-  print("hacerla sonar :) ")
-``` 
+
+ 
